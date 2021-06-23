@@ -3,7 +3,7 @@
 Para executar o projeto Access local é necessario ter instalado o postgress, maven a partir da versão 3.3.9 <br/>
 e a JDK8 na máquina.
 Após realizar o clone do projeto através do comando:<br/>
-  git clone https://github.com/leticiaMalipense/Access.git
+  git clone https://github.com/AlineMooura/Access.git
   
 Vá até o diretorio do mesmo pelo terminal execute o comando maven: <br/>
   mvn clean package<br/>
